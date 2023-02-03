@@ -1,6 +1,6 @@
 # RaulVillar-Profile
 
-<h1 align="center">Hi 👋, I am Raúl Villar</h1>
+<h1 align="center">Hey, I am Raúl Villar</h1>
 
 I am currently learning fullstack developer in FactoriaF5.
 
