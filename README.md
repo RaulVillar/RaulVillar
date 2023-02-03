@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I am Raúl Villar</h1>
+<h1 align="center">Hey, I'm Raúl Villar</h1>
 
-I am currently studying "Fullstack Developer" in FactoriaF5.
+I'm currently studying "Fullstack Developer" in FactoriaF5.
 
 <p align="left">
 </p>
