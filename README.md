@@ -22,7 +22,7 @@ I'm currently studying "Fullstack Developer" in FactoriaF5.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RaulVillar&theme=highcontrast&background=000000)](https://git.io/streak-stats)</div>
 
-![Snake animation](https://github.com/RaulVillar/RaulVillar/blob/main/workflows/main.yml)
+![Snake animation](https://github.com/RaulVillar/RaulVillar/dist/github-contribution-grid-snake.svg)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulvillar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="raulvillar" /></p>
