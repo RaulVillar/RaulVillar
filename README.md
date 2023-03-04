@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Raúl Villar</h1>
+<h1 align="center">Raúl Villar</h1>
 
 I'm currently studying "Fullstack Developer" in FactoriaF5.
 
