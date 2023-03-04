@@ -20,9 +20,4 @@ I'm currently studying "Fullstack Developer" in FactoriaF5.
 <h2 align="left">Tools:</h2>
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaulVillar&theme=highcontrast&background=000000)](https://git.io/streak-stats)</div>
-
-![Snake animation](https://github.com/RaulVillar/RaulVillar/dist/github-contribution-grid-snake.svg)
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulvillar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="raulvillar" /></p>
