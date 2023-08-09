@@ -1,6 +1,6 @@
 <h1 align="center">Raúl Villar</h1>
 
-I'm currently studying "Fullstack Developer" in FactoriaF5.
+I'm currently working for iKnovatio as Full Stack Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
